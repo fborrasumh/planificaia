@@ -1,5 +1,7 @@
 # PlanificaIA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091369.svg)](https://doi.org/10.5281/zenodo.23091369)
+
 Aplicación web de un solo fichero para el estudiantado de **Planificación del Entrenamiento Deportivo** (Grado en Ciencias de la Actividad Física y del Deporte, Universidad Miguel Hernández de Elche).
 
 **Usar la app:** https://fborrasumh.github.io/planificaia/
@@ -30,7 +32,7 @@ Herramienta complementaria para el profesorado: [PlanificaIA Docente](https://gi
 
 ## Cómo citar
 
-Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.0.0) [Software]. Universidad Miguel Hernández de Elche. (DOI en trámite)
+Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.0.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23091369](https://doi.org/10.5281/zenodo.23091369)
 
 ## Licencia
 
