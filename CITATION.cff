@@ -12,8 +12,8 @@ authors:
     affiliation: "Universidad Miguel Hernández de Elche"
     orcid: "https://orcid.org/0000-0002-2291-5899"
 doi: "10.5281/zenodo.23091369"
-version: "1.2.0"
-date-released: "2026-11-02"
+version: "1.3.0"
+date-released: "2026-11-03"
 url: "https://fborrasumh.github.io/planificaia/"
 repository-code: "https://github.com/fborrasumh/planificaia"
 license: MIT

@@ -40,6 +40,10 @@ Todo se guarda en el navegador. Solo el texto que se consulta al tutor viaja al 
 - Las comprobaciones de las entregas indican si un contenido está, no su calidad; la valoración es del profesorado.
 - Probada con IA simulada para los tres proveedores; no con claves reales.
 
+## Novedades de la versión 1.3.0
+
+Propuesta de Manuel Moya Ramón: calendario de competiciones en Planificación. Cada competición indica la modalidad (deporte individual o colectivo, preseleccionada según el deporte), el tipo (campeonatos locales a mundiales, Juegos Olímpicos y meetings; o liga, copa, torneos, ligas europeas con su tipo y competiciones de selecciones), nombre, prioridad A/B/C y fechas de inicio y fin. Se dibuja como una fila del calendario de la temporada y se incluye en el Word y el PDF.
+
 ## Novedades de la versión 1.2.0
 
 Propuestas de Manuel Moya Ramón: pruebas radiológicas entre las valoraciones médicas, exigencia teórica (1-5) por sesión con sus sumas por semana, microciclo, mesociclo y período y gráficos de columnas, desarrollo completo de la sesión desde Planificación (Monitorización solo para bienestar y seguimiento) e impresión en PDF por apartados o como informe completo.
@@ -60,7 +64,7 @@ El `index.html` se monta con `python3 build.py` a partir de `src/` (código de l
 
 ## Cómo citar
 
-Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.2.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23091369](https://doi.org/10.5281/zenodo.23091369)
+Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.3.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23091369](https://doi.org/10.5281/zenodo.23091369)
 
 ## Licencia
 
