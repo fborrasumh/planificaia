@@ -40,6 +40,10 @@ Todo se guarda en el navegador. Solo el texto que se consulta al tutor viaja al 
 - Las comprobaciones de las entregas indican si un contenido está, no su calidad; la valoración es del profesorado.
 - Probada con IA simulada para los tres proveedores; no con claves reales.
 
+## Novedades de la versión 1.4.0
+
+Propuestas de Manuel Moya Ramón: cada sesión desarrollada tiene un apartado «Sesión realizada» con la duración y el RPE realizados, los minutos por zona y las métricas externas realizadas, y lo realizado en cada ejercicio de fuerza (series, repeticiones, kg e intensidad alcanzada) y aeróbico (series, repeticiones, distancia, duración e intensidad). Lo que se deja en blanco toma el valor previsto. Solo las sesiones marcadas como realizadas cuentan en la carga realizada, la monotonía, el strain y el ACWR; las sesiones guardadas con versiones anteriores cuentan como realizadas. Los registros de bienestar se pueden editar y eliminar desde Monitorización.
+
 ## Novedades de la versión 1.3.0
 
 Propuesta de Manuel Moya Ramón: calendario de competiciones en Planificación. Cada competición indica la modalidad (deporte individual o colectivo, preseleccionada según el deporte), el tipo (campeonatos locales a mundiales, Juegos Olímpicos y meetings; o liga, copa, torneos, ligas europeas con su tipo y competiciones de selecciones), nombre, prioridad A/B/C y fechas de inicio y fin. Se dibuja como una fila del calendario de la temporada y se incluye en el Word y el PDF.
@@ -64,7 +68,7 @@ El `index.html` se monta con `python3 build.py` a partir de `src/` (código de l
 
 ## Cómo citar
 
-Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.3.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23091369](https://doi.org/10.5281/zenodo.23091369)
+Borrás Rocher, F. y Moya Ramón, M. (2026). *PlanificaIA* (v1.4.0) [Software]. Universidad Miguel Hernández de Elche. DOI: [10.5281/zenodo.23091369](https://doi.org/10.5281/zenodo.23091369)
 
 ## Licencia
 
